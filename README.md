@@ -1,3 +1,4 @@
 # LBMS_Demo
-This is Libraray Management System Demo Application.
+This is Librarary Management System Demo Application.
+<br/>
 Auther - Kuldeep Gole
